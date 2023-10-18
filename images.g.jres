@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Aran"
     },
+    "image2": {
+        "data": "hwQQABAAAACqqioiIqKqqqp3JyIioqqqevcnRCQiIiKqdydUJCIiIqqqKkQkIiMiqqoqIiIiIyKqqioiIiYzI6qqKiJiImMjqqoqIiImMyOqqioiIiIjIqqqKiIiIiMiqqoqRCQiIiKqdydUJCIiInr3J0QkIiIiqncnIiKiqqqqqioiIqKqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hugo"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
