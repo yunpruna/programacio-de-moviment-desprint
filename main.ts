@@ -1,0 +1,5 @@
+let mySprite = sprites.create(assets.image`Aran`, SpriteKind.Player)
+scene.setBackgroundColor(7)
+mySprite.setPosition(80, 60)
+mySprite.setVelocity(50, 0)
+controller.moveSprite(mySprite)
